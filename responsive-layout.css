@@ -1,0 +1,49 @@
+
+/* Responsive reusable card components */
+
+:root {
+  --card-border: #d9dee7;
+  --card-radius: 14px;
+  --card-shadow: 0 4px 16px rgba(20,35,55,.08);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns:
+    repeat(auto-fit, minmax(min(100%,220px),1fr));
+  gap: 1rem;
+}
+
+.card {
+  padding: 1.25rem;
+  border: 1px solid var(--card-border);
+  border-radius: var(--card-radius);
+  background: #fff;
+  box-shadow: var(--card-shadow);
+}
+
+.card__title {
+  margin: 0 0 .5rem;
+  font-size: 1.15rem;
+}
+
+.card__description {
+  margin: 0;
+  color: #536071;
+  line-height: 1.5;
+}
+
+.card__action {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: .65rem 1rem;
+  border-radius: 8px;
+  background: #174ea6;
+  color: #fff;
+  text-decoration: none;
+}
+
+.card__action:focus-visible {
+  outline: 3px solid #f5b942;
+  outline-offset: 3px;
+}
