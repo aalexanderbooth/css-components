@@ -1,16 +1,9 @@
-# Daily Notes
+# CSS Components
 
-A browser-based application for recording and saving daily notes.
+A repository focused on CSS components and styling techniques.
 
-## Features
-- Write daily notes
-- Save notes using local storage
-- View previously saved notes
+## Purpose
+Explore reusable interface designs and CSS styling.
 
-## Usage
-Open `index.html` in a browser, enter a note and click Save Note.
-
-## Technologies
-- HTML
-- CSS
-- JavaScript
+## Getting Started
+Review the available component files.
