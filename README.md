@@ -1,9 +1,20 @@
-# CSS Components
+## CSS Maintenance Guide
 
-A repository focused on CSS components and styling techniques.
+### Code Organization
 
-## Purpose
-Explore reusable interface designs and CSS styling.
+- Keep related styles together.
+- Use descriptive class names.
+- Avoid unnecessary duplicate rules.
+- Maintain consistent formatting.
 
-## Getting Started
-Review the available component files.
+### Responsive Design
+
+- Test layouts on mobile screens.
+- Check tablet and desktop layouts.
+- Prevent horizontal overflow.
+- Keep spacing consistent.
+
+### Maintenance
+
+Review component styles whenever
+new interface elements are introduced.
