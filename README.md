@@ -18,3 +18,12 @@
 
 Review component styles whenever
 new interface elements are introduced.
+## Manual Testing Checklist
+
+- [ ] Preview the available component styles in a test page.
+- [ ] Check button, card and other component states where present.
+- [ ] Test responsive styles at narrow and wide viewport sizes.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
