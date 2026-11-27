@@ -1,14 +1,14 @@
 # Performance Review
 
-**Repository:** daily-notes
+**Repository:** css-components
 **Review Date:** 2026-11-27
 
 ## Performance Checks
 
 | No. | Test Scenario | Observation | Status |
 |---|---|---|---|
-| 1 | Measure how quickly saved notes appear after saving. | Record actual result | Pending |
-| 2 | Check whether loading many notes causes noticeable delays. | Record actual result | Pending |
+| 1 | Check whether transitions and animations run smoothly. | Record actual result | Pending |
+| 2 | Review unused CSS declarations and duplicate styles. | Record actual result | Pending |
 | 3 | Test the application on a mobile viewport. | Record actual result | Pending |
 
 ## Performance Findings
